@@ -1,7 +1,6 @@
 # YADA_FILE
 
 
-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000¢er=true&vCenter=true&width=420&height=60&lines=👋+HELLO+WORLD%2C+I'M+YADA+HERE+💁;😌+TODAY+I+WILL+TELL+YOU+🤗;💁+PLEASE+FOLLOW+MY+GITHUB+🙏;💻+THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg)
 
 
 
